@@ -86,12 +86,10 @@ ad-attack-lab-corp-local/
 │   ├── 06-winrm-access/            (Evil-WinRM shell establishment)
 │   └── 07-post-exploitation/       (privilege confirmation + host enumeration)
 └── notes/
-    ├── screenshot-mapping.md       (full 80-screenshot audit trail)
+    ├── screenshot-mapping.md       
     ├── portfolio-review.md         (recruiter/hiring-manager/senior-pentester review)
     └── github-repo-metadata.md     (suggested repo name, description, topics)
 ```
-
-*(Folder numbering intentionally skips `02-` — see the note at the top of `notes/screenshot-mapping.md`.)*
 
 ## Network Diagram
 
@@ -159,7 +157,7 @@ See [`diagrams/network-diagram.md`](diagrams/network-diagram.md) for the full de
 
 ## Attack Workflow
 
-> Screenshots in the raw source deck are ordered **most-recent-first** (verified against on-screen clock timestamps). The workflow below is presented in **true chronological order**. Original screenshot numbers are preserved in [`notes/screenshot-mapping.md`](notes/screenshot-mapping.md) for traceability.
+> Screenshots in the raw source deck are ordered. Original screenshot numbers are preserved in [`notes/screenshot-mapping.md`](notes/screenshot-mapping.md) for traceability.
 
 ```
 1. Environment Build            → AD DS promotion, OU/user/group provisioning,
