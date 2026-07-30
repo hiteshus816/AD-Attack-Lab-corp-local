@@ -4,7 +4,7 @@
 **Engagement Type:** Internal, credentialed, self-directed lab assessment
 **Report Classification:** Portfolio / Educational (non-production, isolated lab)
 **Assessment Dates:** 14 July 2026 (environment build) – 28 July 2026 (attack execution)
-**Prepared By:** [Your Name]
+**Prepared By:** Hitesh Chowdary Bandaru
 **Report Date:** 28 July 2026
 
 ---
