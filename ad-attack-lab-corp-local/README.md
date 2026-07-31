@@ -157,8 +157,6 @@ See [`diagrams/network-diagram.md`](diagrams/network-diagram.md) for the full de
 
 ## Attack Workflow
 
-> Screenshots in the raw source deck are ordered. Original screenshot numbers are preserved in [`notes/screenshot-mapping.md`](notes/screenshot-mapping.md) for traceability.
-
 ```
 1. Environment Build            → AD DS promotion, OU/user/group provisioning,
                                    share + WinRM configuration, workstation domain-join
