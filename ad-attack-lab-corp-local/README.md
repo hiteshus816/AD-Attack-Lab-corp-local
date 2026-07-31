@@ -5,7 +5,6 @@
 ![Attacker](https://img.shields.io/badge/attacker%20OS-Kali%20Linux-557C94)
 ![Technique](https://img.shields.io/badge/technique-Kerberoasting-red)
 ![Status](https://img.shields.io/badge/domain%20compromise-Achieved-success)
-![License](https://img.shields.io/badge/license-MIT-lightgrey)
 
 > A fully self-hosted Active Directory attack range built end-to-end (domain provisioning → misconfiguration seeding → exploitation → full domain compromise) to demonstrate practical adversary tradecraft against a realistic enterprise identity environment.
 
